@@ -1,0 +1,6 @@
+{
+  "name": "GDPrep Studio - AI Voice Group Discussion Simulator",
+  "description": "Voice-first campus placement Group Discussion practice room with authentic AI personalities, natural turn-taking, real-time coaching nudges, and quoted-transcript evaluation reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
